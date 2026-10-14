@@ -1,0 +1,3 @@
+model,accuracy,F1,ROC_AUC,CV_AUC
+Logistic regression,0.833,0.794,0.882,0.834
+Random forest,0.833,0.774,0.904,0.848
